@@ -1,0 +1,21 @@
+body {
+    background-image: url("RobloxRed.jpeg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    color: white;
+}
+.name {
+    width:298px;
+    height: 31px;
+    font-size: 17px;
+    border-radius: 7px;
+    border: none;
+}
+.give-robux {
+    width: 254px;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
